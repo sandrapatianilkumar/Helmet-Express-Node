@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/sandrapatianilkumar/Helmet-Express-Node#readme",
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "express-csp-header": "^2.1.0",
+    "helmet": "^3.9.0"
   }
 }
