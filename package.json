@@ -1,0 +1,23 @@
+{
+  "name": "Helmet-Express-Node",
+  "version": "1.0.0",
+  "description": "About Helmet Usage in Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandrapatianilkumar/Helmet-Express-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandrapatianilkumar/Helmet-Express-Node/issues"
+  },
+  "homepage": "https://github.com/sandrapatianilkumar/Helmet-Express-Node#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
